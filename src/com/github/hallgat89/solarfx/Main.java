@@ -37,8 +37,8 @@ public class Main extends Application {
 
 	final boolean LINETRACE = true;
 	final boolean NORMALISATION = true;
-	final boolean SIMPLE_DIAMETER = true;
-	final boolean SIMPLE_RADIUS = true;
+	final boolean SIMPLE_DIAMETER = false;
+	final boolean SIMPLE_RADIUS = false;
 
 	final int REFRESH_RATE = 50;
 	final int MIN_PLANET_SIZE = 10;
